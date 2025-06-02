@@ -14,7 +14,5 @@
 
 person_detector/
 ├── main.py # Основной скрипт
-
 ├── requirements.txt # Зависимости
-
 └── README.md # Инструкция по установке и запуску
