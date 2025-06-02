@@ -12,7 +12,7 @@
 
 ## Структура проекта
 
-person_detector/ \n
-├── main.py # Основной скрипт \n
-├── requirements.txt # Зависимости \n
+person_detector/  
+├── main.py # Основной скрипт  
+├── requirements.txt # Зависимости  
 └── README.md # Инструкция по установке и запуску
